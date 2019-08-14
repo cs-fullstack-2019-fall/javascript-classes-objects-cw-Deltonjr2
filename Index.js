@@ -45,7 +45,7 @@ class GitHubRepository {
  let myGitHubRepository = new GitHubRepository("Clone","codeSchool", "book", "javascript");
 myGitHubRepository.printProps();
 
-//2.
+//2. INCOMEPLETE
 class movies {
     constructor(moviename, rating, yearreleased) {
 
